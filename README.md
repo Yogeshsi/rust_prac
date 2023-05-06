@@ -1,3 +1,3 @@
 # Rust Prac
 
-Rust Pracs
+Rust Pracs!
